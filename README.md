@@ -2,7 +2,7 @@
 
 > **720P $0.13; default $0.172; 1080P $0.172** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-97c0b1)** · **[Get an API key](https://go.apimart.ai/k-d6fcc6)**
 
 Everything here refers to **happyhorse-1.1** — also written **happyhorse1.1** or **happyhorse 1.1**.
 
