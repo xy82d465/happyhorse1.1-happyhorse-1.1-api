@@ -1,0 +1,14 @@
+{
+  "repo": "happyhorse1.1-happyhorse-1.1-api",
+  "model": "happyhorse-1.1",
+  "display": "HappyHorse 1.1",
+  "variant": "api",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "720P": 0.13,
+    "default": 0.172,
+    "1080P": 0.172
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
